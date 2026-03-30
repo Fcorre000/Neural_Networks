@@ -1,0 +1,45 @@
+Assignment Objectives:
+ 
+The primary goal of this assignment is to implement a Variational Autoencoder (VAE).
+ 
+Build and train a Variational Autoencoder (VAE) model to learn a 6 dimensional latent space representation of a facial data set.
+Interact with the decoder part of the trained VAE by creating a graphical user interface (GUI) with six sliders, representing the values in a six-dimensional latent space.
+Reconstruct and display facial images in real time when user interacts with the sliders using a mouse. .
+ 
+Datasets:
+ 
+You have the option to use any of the following facial data sets:
+ 
+LFW (Labeled Faces in the Wild): Contains approximately 13,000 labeled facial images.
+CelebA: Comprises over 200,000 celebrity images.
+FER2013 (Facial Expression Recognition 2013): Includes around 35,000 images for facial expression analysis.
+IMDB-WIKI: Contains over half a million images of celebrities.
+CASIA WebFace: Includes over 500,000 images of celebrities.
+MS Celeb 1M: Consists of around 10 million images of celebrities.
+300 Faces In-the-Wild (300W): A dataset with 68,000 labeled faces displaying varying poses, expressions, and occlusions, often used for facial landmark detection.
+Multi-PIE: A dataset with more than 750,000 images of 337 individuals, captured under different illumination, pose, and expression conditions, commonly used for face recognition research.
+AFLW (Annotated Facial Landmarks in the Wild): Contains over 25,000 in-the-wild facial images with annotated facial landmarks.
+Grading Criteria:
+ 
+ It is expected that the graphical interface and real-time reconstruction work seamlessly for both tasks.
+ 
+Notes:
+Your GUI must exactly match the image shown below.
+Apart from the number of latent variables, your are free to choose the architecture of your VAEs.
+Submit your saved trained model with your submission.
+Your program must automatically load the saved model when it starts to run.
+Your program must automatically show the GUI when it runs.
+Do not submit the facial dataset.
+Please ensure that you consult the specific data set's documentation and comply with usage terms and permissions when working with facial data sets.
+Submission Guidelines:
+The first four lines of your submitted files must have the following format:
+# Your name (last-name, first-name)
+# Your student ID (100x_xxx_xxx)
+# Date of submission (yyyy_mm_dd)
+# Assignment_nn_kk
+ 
+Create a directory and name it according to the submission guidelines and include your files in that directory.
+Zip the directory and upload it  to Canvas according to the submission guidelines.
+ 
+
+  

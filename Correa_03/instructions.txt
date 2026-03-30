@@ -1,0 +1,28 @@
+The purpose of the this assignment is to create a Convolutional Neural Networks (CNN) using PyTorch.
+To begin this assignment download the Kamangar_03.zip and unzip it in your computer.
+ 
+Your code should be using PyTorch
+DO NOT alter/change the name of the function or the parameters of the function.
+You may introduce additional functions (helper functions) as needed. All the helper functions should be put in the same file with train_nn_torch()  function.
+The comments in the train_nn_torch()  function provide additional information that should help with your implementation.
+ Notes:
+The Assignment_03_tests.py file includes a very minimal set of unit tests for the CNN class module. Part of the assignment grade will be based on your code passing these tests (and some other unspecified tests)
+You may modify the "Assignment_03_tests.py" to include more tests. You may also add additional tests to help you during development of your code.
+DO NOT submit the "Assignment_03_tests.py" file when submitting your Assignment_03
+You may run these tests using the command:      py.test --verbose Assignment_03_tests.py
+ 
+ Grading Criteria
+Your submitted function will be tested with multiple test units.
+Passing the tests - 80 points
+Qualitative Evaluation - 20 points (Grader may examine your code and subjectively award as many as 20 points.)
+ 
+Submission Guidelines
+The first four lines of any submitted file must follow the following format according to the assignment submission guidelines.
+# Your name (last name, first name)
+# Your student ID (100x_xxx_xxx)
+# Date of submission (yyyy_mm_dd)
+# Assignment_nn_kk
+ 
+Change the name of the file according to the submission guidelines.
+Create a directory and name it according to the submission guidelines and include your file in that directory.
+Zip the directory and upload it  to Canvas according to the submission guidelines.
